@@ -8,8 +8,8 @@
 
         ' 이 호출은 디자이너에 필요합니다.
         'InitializeComponent()
-
-        ' InitializeComponent() 호출 뒤에 초기화 코드를 추가하십시오.
+        '테스트
+        'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
         picMaker.Image = My.Resources.MiraeVisionLogo ' Image.FromFile(Application.StartupPath + "\CI.png")
