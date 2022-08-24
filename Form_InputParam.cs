@@ -11,6 +11,7 @@ using WVision;
 
 namespace WVision
 {
+    //
     public partial class Form_InputParam : Form
     {
         public string result = "";
