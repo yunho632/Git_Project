@@ -18,9 +18,9 @@
         '테스트
 
         '0828 변경 내용 주석 처리
-        
+
         '0828 || 
-        
+
         'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
