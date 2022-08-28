@@ -25,6 +25,8 @@
 
         ' hi
 
+        'LYH
+
         'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
