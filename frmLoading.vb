@@ -12,10 +12,12 @@
 
         'Premium
         'Premium 
-        
+
         ' 이 호출은 디자이너에 필요합니다.
         'InitializeComponent()
         '테스트
+
+        '0828 변경 내용 주석 처리
         'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
