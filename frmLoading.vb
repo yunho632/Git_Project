@@ -5,6 +5,8 @@
     End Sub
 
     Public Sub New()
+        
+        'today
 
         ' 이 호출은 디자이너에 필요합니다.
         'InitializeComponent()
