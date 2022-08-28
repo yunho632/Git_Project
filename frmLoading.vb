@@ -23,6 +23,7 @@
 
         '안녕
 
+        ' hi
 
         'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
