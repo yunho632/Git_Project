@@ -21,7 +21,7 @@
 
         '0828 || 
 
-        '종료합니다.
+        '종료합니다.'종료합니다.
 
         'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
