@@ -6,6 +6,7 @@
 
     Public Sub New()
         '두시두시'두시두시'두시두시'두시두시
+         '두시두시'두시두시'두시두시'두시두시
         'today
         'today
         'today
