@@ -21,6 +21,9 @@
 
         '0828 || 
 
+        '안녕
+
+
         'InitializeComponent().
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
