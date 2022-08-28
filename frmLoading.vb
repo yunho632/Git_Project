@@ -14,6 +14,9 @@
           ' 사랑
                ' 사랑
          ' 사랑
+        
+        '지나친
+        
         'today
         'today
         'today
