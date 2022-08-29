@@ -7,7 +7,7 @@
     Public Sub New()
 
         
-
+tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
