@@ -6,7 +6,7 @@
 
     Public Sub New()
 
-         InitializeComponent()
+        InitializeComponent()
 
         ' InitializeComponent() 호출 뒤에 초기화 코드를 추가하십시오.
 
