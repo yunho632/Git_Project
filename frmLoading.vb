@@ -12,9 +12,8 @@
         InitializeComponent()
 
         ' InitializeComponent() 호출 뒤에 초기화 코드를 추가하십시오.
-        ' 코드가 추가 되었습니다.
 
-        'TEST
+        ' InitializeComponent() 호출 뒤에 초기화 코드를 추가하십시오.
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
         picMaker.Image = Image.FromFile(Application.StartupPath + "\CI.png")
