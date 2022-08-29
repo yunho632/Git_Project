@@ -8,7 +8,7 @@
 
         
 
-        
+        tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
         lbMainTitle.Parent = tablayoutLoading
         picMaker.Image = Image.FromFile(Application.StartupPath + "\CI.png")
