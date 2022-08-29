@@ -6,7 +6,7 @@
 
     Public Sub New()
 
-        InitializeComponent()
+        
 
         
         tablayoutLoading.Parent = PictureBox1
