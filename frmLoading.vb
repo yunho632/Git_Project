@@ -7,6 +7,7 @@
     Public Sub New()
         '사랑 TWO
         '사랑 TWO
+         '사랑 TWO
         tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
