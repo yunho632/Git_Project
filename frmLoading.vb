@@ -5,6 +5,7 @@
     End Sub
 
     Public Sub New()
+        'LYH
         tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
         tablayoutLoading.Parent = PictureBox1
